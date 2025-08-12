@@ -3148,3 +3148,8 @@ textarea.form-control {
 
 /* Let clicks pass through images so they don't block buttons */
 .slide-image, .slide-image img { pointer-events: none; }
+@font-face {
+  font-family: 'YourFont';
+  src: url('your-font.woff2') format('woff2');
+  font-display: swap;
+}
